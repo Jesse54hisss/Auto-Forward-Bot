@@ -7,7 +7,6 @@
         "auto",
         "forward"
     ],
-    "success_url": "https://telegram.dog/Autoforward_Nsbot",
     "repository": "https://github.com/Jesse54hisss/Auto-Forward-Bot",
     "env": {
         "AS_COPY": {
